@@ -13,6 +13,7 @@ O [Google Looker Studio](https://cloud.google.com/looker-studio?hl=pt-br) é uma
 - [Looker Studio - Tutoriais](https://support.google.com/looker-studio/topic/9170843?hl=en&ref_topic=12398462&sjid=16618028625662743632-SA)
 - [Fontes de Dados para o Looker Studio](https://support.google.com/looker-studio/topic/6295893?hl=en&ref_topic=9170843&sjid=16618028625662743632-SA)
 - [Github - Data Storytelling with Google Looker Studio](https://github.com/PacktPublishing/Data-Storytelling-with-Google-Data-Studio)
+- [Documentação Looker Studio](https://cloud.google.com/looker/docs/intro?hl=pt-br)
 
 **Exemplos de Alguns Dashboards legais** 
 - [Looker Studio Gallery - Exemplos](https://lookerstudio.google.com/gallery?category=visualization)
