@@ -13,7 +13,7 @@ O [Google Looker Studio](https://cloud.google.com/looker-studio?hl=pt-br) é uma
 - [Github - Data Storytelling with Google Looker Studio](https://github.com/PacktPublishing/Data-Storytelling-with-Google-Data-Studio)
 
 **Exemplos de Alguns Dashboards legais** 
-
+- [Looker Studio Gallery - Exemplos](https://lookerstudio.google.com/gallery?category=visualization)
 - [Sales Dashboard](https://github.com/sdrahmath/Sales_Dashboard)
 
 ## Power BI
