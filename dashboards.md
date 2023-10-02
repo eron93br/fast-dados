@@ -12,6 +12,10 @@ O [Google Looker Studio](https://cloud.google.com/looker-studio?hl=pt-br) é uma
 - :blue_book: [Data Storytelling with Google Looker Studio](https://www.packtpub.com/product/data-storytelling-with-google-looker-studio/9781800568761)
 - [Github - Data Storytelling with Google Looker Studio](https://github.com/PacktPublishing/Data-Storytelling-with-Google-Data-Studio)
 
+**Exemplos de Alguns Dashboards legais** 
+
+- [Sales Dashboard](https://github.com/sdrahmath/Sales_Dashboard)
+
 ## Power BI
 
 ![](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW1436b?ver=061e)
