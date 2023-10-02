@@ -2,8 +2,19 @@
 
 ## Google Looker Studio (Data Studio) 
 
+![](https://lh3.googleusercontent.com/GsKWJRJBLONNCnw1CQ7kWa9Bi7A8YCWEKC925l1j02cpxZU4qFkVA0Kk9zMjm2ID28pOX3c56Uw1Kg=s600-w600)
+
+O [Google Looker Studio](https://cloud.google.com/looker-studio?hl=pt-br) é uma plataforma de análise de dados e Business Intelligence (BI) que faz parte do ecossistema [Google Cloud](https://cloud.google.com/?hl=pt-BR). Ela oferece recursos avançados para empresas explorarem, visualizarem e analisarem seus dados de maneira eficaz.
+
+**Leitura Recomendada & Links de Referência**
+
+- :bar_chart: [Bons Templates para Looker Studio 2023](https://windsor.ai/best-google-data-studio-examples/)
+- :blue_book: [Data Storytelling with Google Looker Studio](https://www.packtpub.com/product/data-storytelling-with-google-looker-studio/9781800568761)
+- [Github - Data Storytelling with Google Looker Studio](https://github.com/PacktPublishing/Data-Storytelling-with-Google-Data-Studio)
 
 ## Power BI
+
+![](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW1436b?ver=061e)
 
 O Power BI é uma plataforma de análise de negócios da Microsoft que oferece poderosas ferramentas de análise, visualização de dados e compartilhamento de informações. Ele é amplamente utilizado por empresas e profissionais para transformar dados em insights. O Power BI oferece uma versão gratuita com recursos básicos e versões pagas com funcionalidades avançadas para empresas. Algumas caracteristicas interessantes são: 
 
@@ -15,8 +26,10 @@ O Power BI é uma plataforma de análise de negócios da Microsoft que oferece p
 
 **Leitura Recomendada**
 
-- [Microsoft Power BI Quick Start Guide - Third Edition](https://www.packtpub.com/product/microsoft-power-bi-quick-start-guide-third-edition/9781804613498)
+- :blue_book: [Microsoft Power BI Quick Start Guide - Third Edition](https://www.packtpub.com/product/microsoft-power-bi-quick-start-guide-third-edition/9781804613498)
 
 ### Referências 
 
-- [Github - Awesome Power BI](https://github.com/tomkarsten/awesome-power-bi) 
+- [Github - Awesome Power BI](https://github.com/tomkarsten/awesome-power-bi)
+- [Github - Awesome Power BI - Visualization Plots](https://github.com/NajiElKotob/Awesome-Power-BI)
+- [Github - Awesome Power BI - Blogs, posts and references]([https://github.com/NajiElKotob/Awesome-Power-BI](https://github.com/NajiElKotob/Awesome-Power-BI)https://github.com/NajiElKotob/Awesome-Power-BI)
