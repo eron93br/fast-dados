@@ -11,7 +11,8 @@ Para esta trilha, use a seguinte estrutura para criação do projeto da **Trilha
     - `transform/`: caso seu proejto envolva um processo de transformar dados, coloque o código Python em `transform_data.py`.
     - `load/`: para carregar dados de um arquivo .CSV ou banco de dados.
 - Pasta `docs/`: caso seu projeto tenha documentos sobre o processo, coloque aqui algum arquivo markdown ou .PDF.
-  
+
+```
 Projeto-ETL-Template/
 │
 ├── README.md
